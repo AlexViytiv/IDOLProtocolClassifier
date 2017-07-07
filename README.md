@@ -6,7 +6,7 @@ Requirements:
 
   - python version 2 (tested on 2.7)
   - swig utility
-  - scapy module for python
+  - scapy module for python
   - json module for python
   - sudo access
 
